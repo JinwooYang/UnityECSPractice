@@ -2276,7 +2276,6 @@ GameObject:
   - component: {fileID: 4132813328528681003}
   - component: {fileID: 4116588618983398187}
   - component: {fileID: 4107312845937539407}
-  - component: {fileID: -4240738934683370510}
   m_Layer: 0
   m_Name: Battleship
   m_TagString: Untagged
@@ -2349,18 +2348,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!114 &-4240738934683370510
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4130434848276214197}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a18aecfd37454ae0b2ef5d165ba61fc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &4130529565016110681
 GameObject:
   m_ObjectHideFlags: 0
