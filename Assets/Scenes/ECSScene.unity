@@ -229,7 +229,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 550517707}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 48b890e17a3304021aeada0b6274103a, type: 3}
+  m_Script: {fileID: 11500000, guid: d3d37a3b1eaa44a158bed036cfe24a8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   topBound: 721
@@ -238,7 +238,7 @@ MonoBehaviour:
   rightBound: 1000
   enemyShipIncremement: 1000
   enemySpeed: 666
-  enemyShipPrefab: {fileID: 1884474242788052862, guid: a8785c819c98f4b4da652e1eaeaf733d,
+  enemyShipPrefab: {fileID: 1884474242788052862, guid: 7b6ba24a1c0d64cdc814676f466b0ec1,
     type: 3}
 --- !u!4 &550517709
 Transform:
